@@ -1,0 +1,6 @@
+{
+  "name": "Portal of Legends - Mythic Ludo",
+  "description": "A multi-realm 3D Ludo board game featuring AI opponents, power-ups, customizable game modes, voice commentary, and audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
